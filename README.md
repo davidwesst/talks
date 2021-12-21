@@ -12,3 +12,7 @@ But all is not lost. Your existing development practice can live on in this new 
 
 + [Slides (Coming Soon)](#)
 + [Slides + Demos (Coming Soon)](#)
+
+## Development Credits & References
+
+- [Example](https://github.com/rbi/reveal.js-webpack-example)
