@@ -10,7 +10,6 @@ import Search from 'reveal.js/plugin/search/search.esm.js';
 import Markdown from 'reveal.js/plugin/markdown/markdown.esm.js';
 import Highlight from 'reveal.js/plugin/highlight/highlight.esm.js';
 
-console.log('Hello Webpack Again!');
 Reveal.initialize({
     controls: true,
     progress: true,
