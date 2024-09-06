@@ -30,11 +30,48 @@ shortDescription: Discover how to modernize enterprise architecture with a strat
     //class: hide
 -->
 
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
 # Sponsor Image
 
 ![blur](https://placehold.co/854x480)
 
 ---
 
-# Another slide
-sdflkjasdkfja
+# Overview
+
+- Introduction & The Problem
+- The Landscape (Where We Started)
+- The Evolution (Where we went)
+- The Reality (Where we are going)
+- Conclusion, Solution, and the Takeaway
+
+<!--
+
+- Introduction & The Problem
+  - Integration Strategy, or lack thereof
+  - Technical Debt 
+- The Landscape (Where we started)
+  - Integration Now and Then
+  - Data and Digital Governance as a Foundation
+  - Assuming Technical Debt
+  - INtegration Strategy v1.0
+- The Evolution (Where we went)
+  - Orchestration
+  - Automation
+  - Foundation Rooted in "AI" (i.e. Data and Metadata)
+  - Measuring Technical Debt
+  - Reliquishment of Control
+- Our Reality (Where we are going)
+  - Cohesive Framework
+  - Governance without Governance
+  - Capability, Risk, and Delivery Above All Else
+  - Integration Strategy v2.0
+- Conclusion, The Solution, and The Takeaway
+
+-->
