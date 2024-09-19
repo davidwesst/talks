@@ -74,7 +74,7 @@ What this talk **is not**...
 
 ---
 
-How do we solve "Integration"?
+How do we "Modernize Integration"?
 
 <!--
 
@@ -120,6 +120,7 @@ Where is the complexity in integration?
 
 <!--
 UM Story for integration
+- Quick self-introduction
 - Application team focused on integration in 2007, since mainframe funeral Amhdahl
 - Starting with ERP Portfolio (SIS, Finance, HR) a popular integration target
 - As demand increased, so did our scope
@@ -127,35 +128,16 @@ UM Story for integration
 
 ---
 
-Enter SIS modernization and Integration modernization
-
-<!--
-
-- Quick self-introduction
-- SIS Modernization, which includes integrations (as phase 3, best for last)
-- Current state was chaos and 20 years of "technical debt" and a confused defintion of integration
-- In discovery we found that an integration wasn't always an integration
--->
+How do we "Modernize Integration"?
 
 ---
 
-Question becomes, how do we solve integration?
+You Don't.
+
+You Modernize Everything Else.
 
 <!-- 
-- Scope is huge (literally the )
-- Demand keeps growing (AI-readiness and data-driven decision making)
-- More software systems than ever (eaten by software)
-- Speed and agilty required to keep up, while maintaining the old
--->
-
----
-
-Answer: You don't.
-
-<!-- 
-Answer: you don't. 
-- Because you can't. Scope is too big
-- You calm the chaos
+This talk is the journey the UM is on to modernize integration, and give you some ideas on how you can start your own modernization journey too.
 -->
 
 ---
@@ -166,7 +148,7 @@ Answer: you don't.
 - The Landscape (Where We Started)
 - The Revolution (Where we went)
 - The Evolution (Where we are going)
-- Conclution & Takeaway
+- Conclusion & Takeaways
 
 <!--
 
@@ -368,6 +350,10 @@ What is "Integration Modernization" to UM?
 - Change in expectation
 - Change in definition
 - Change in implementation
+
+<!--
+Not a technical change in the list.
+-->
 
 ---
 
