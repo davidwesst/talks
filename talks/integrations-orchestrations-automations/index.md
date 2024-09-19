@@ -340,8 +340,8 @@ State of the Development Team
 
 * Integration Strategy v1.0 from 2021 did not rollout as hoped
   * Data Copy/Sync Pattern used almost exclusively
-  * Integration wasn't quite an Integration
-* Cloud-Native Development Skills were lacking
+* Lacked Experience in Modern Integration Development (a.k.a. Cloud-Native)
+* Integration wasn't quite an Integration
 
 ---
 
@@ -414,7 +414,7 @@ Defined (and Communicated) Standards
 
 ---
 
-Finding Parallel Workstreams (a.k.a. Synergies)
+Finding Pre-Existing Work
 
 <!--
 - Change in Definition
@@ -441,7 +441,15 @@ Inventory of the Integrations
 -->
 ---
 
-(PowerBI and Microsoft List Screenshots)
+![bg center](./images/integration-catalogue.png)
+
+<!--
+Start with what you have
+-->
+
+---
+
+![bg center](./images/powerbi-screen.png)
 
 <!--
 Start with what you have
