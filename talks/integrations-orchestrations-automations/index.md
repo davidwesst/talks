@@ -142,12 +142,20 @@ This talk is the journey the UM is on to modernize integration, and give you som
 
 ---
 
+How?
+
+<!--
+Everything else is too big to be a project, so what do you do then?
+-->
+
+---
+
 # Outline
 
 - ~~Introduction & The Problem~~
-- The Landscape (Where We Started)
-- The Revolution (Where we went)
-- The Evolution (Where we are going)
+- Where We Started
+- Where We Went
+- Where We Are Going
 - Conclusion & Takeaways
 
 <!--
@@ -227,9 +235,6 @@ This talk is the journey the UM is on to modernize integration, and give you som
     - Plan to share your findings, expect nay-sayers ,frame it as a living document
     - Reach outside your scope and build bridges with facts, not ideas
 
-  - 
-
-
   - Modernization effort ot
   - Orchestration
   - Automation
@@ -247,7 +252,25 @@ This talk is the journey the UM is on to modernize integration, and give you som
 
 ---
 
-The Landscape (Where we started)
+# Takeaways
+
+* Integration modernization is NOT a project
+* Define "integration modernization" for your own environment
+* Find data about integrations, don't create it
+* Wrap technical capabilities with business capabilities
+* Acknowledge risks, and capitalize on opportunities
+
+<!--
+* Integration modernization is NOT a project
+* Define "integration modernization" for your own environment
+* Find data about integrations, don't create it
+* Wrap technical capabilities with business capabilities
+* Acknowledge risks, and capitalize on opportunities
+-->
+
+---
+
+Where We Started...
 
 <!--
   [15 min]
@@ -286,9 +309,12 @@ The Landscape (Where we started)
 
 ---
 
-SIS Modernization
+2022/23 -> SIS Modernization Effort
+
+![bg right](./images/stoneage-to-spaceage.webp)
 
 <!--
+- Vendor decides to update solution from database-driven to cloud-native in one major update
 - 2ish years ago with SIS modernization, with a phase 3
 - Problem: What is "integration modernization" for the SIS?
 - What are the risks we face, and opportunities we can leverage?
@@ -302,6 +328,8 @@ Examine the environment...
 * ...in the enterprise
 * ...in the development team
 
+![bg left 100%](./images/team-enterprise-industry.webp)
+
 ---
 
 State of the Industry (Higher Education)
@@ -310,6 +338,8 @@ State of the Industry (Higher Education)
 * "AI-Readiness" (opportunity)
 * Information Security (opportnity)
 * Citizen Developers (risk/opportunity)
+
+![bg right](./images/new-products_ai-ready_infosec_citizen-developers.webp)
 
 <!--
 Context: Gartner and Assumptions from
@@ -326,9 +356,11 @@ Environment around Industry
 State of the Enterprise
 
 * Data Governance & Data Analytics/Warehouse Effort
+* Integration Strategy v1.0 from 2021 did not rollout as hoped
 * Integrations treated separately from Data
-* Always On-Prem Design Expectations
 * New tools introduced to empower Citizen Developers
+
+![bg right](./images/enterprise.webp)
 
 <!-- 
 Ellucian Workflow, M365, and interest in LCAP
@@ -338,10 +370,11 @@ Ellucian Workflow, M365, and interest in LCAP
 
 State of the Development Team
 
-* Integration Strategy v1.0 from 2021 did not rollout as hoped
-  * Data Copy/Sync Pattern used almost exclusively
+* Data Copy/Sync Pattern used almost exclusively
 * Lacked Experience in Modern Integration Development (a.k.a. Cloud-Native)
 * Integration wasn't quite an Integration
+
+![bg right](./images/development-team.webp)
 
 ---
 
@@ -350,6 +383,8 @@ What is "Integration Modernization" to UM?
 - Change in expectation
 - Change in definition
 - Change in implementation
+
+* **NOTE: This is bigger than an "SIS Modernization Project"**
 
 <!--
 Not a technical change in the list.
@@ -527,13 +562,13 @@ Change in implementation
 
 ---
 
-# Conclusion & Takeaways
+# Takeaways
 
+* Integration modernization is NOT a project
 * Define "integration modernization" for your own environment
 * Find data about integrations, don't create it
 * Wrap technical capabilities with business capabilities
-* Acknowledge and document the risks
-* Capitalize on the opportunities
+* Acknowledge risks, and capitalize on opportunities
 
 ---
 
