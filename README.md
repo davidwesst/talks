@@ -1,7 +1,16 @@
 # Talks
+
 A collection of slides, demos, and links to media (when available) for my conference presentations.
 
-## THIS REPOSITORY HAS BEEN ARCHIVED
-**This repository has been archived. Find all these talks, along with all the others that I have manage to keep on [my website](https://www.davidwesst.com/talks)**
+## How to Present
 
+1) Install dependencies with `npm install`
+2) Run the command `npx marp talks/integrations-orchestrations-automations/index.md --preview`
+3) Two windows will appear, presenter mode and full slides. Move them to the appropriate screens and you are set.
 
+## Table of Contents
+
+### Integrations, Orchestrations, Automations: Paving the Path for AI in Enterprise Architecture
+
+* Delivered at [Prairie Dev Con 2024](https://www.prairiedevcon.com) (Winnipeg, Canada)
+* Download Link Coming Soon!

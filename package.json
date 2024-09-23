@@ -18,7 +18,7 @@
     "url": "https://github.com/davidwesst/talks/issues"
   },
   "homepage": "https://github.com/davidwesst/talks#readme",
-  "workspaces": [
-    "weird-and-wonderful-ways-to-use-github"
-  ]
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4.0"
+  }
 }
