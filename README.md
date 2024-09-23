@@ -13,4 +13,4 @@ A collection of slides, demos, and links to media (when available) for my confer
 ### Integrations, Orchestrations, Automations: Paving the Path for AI in Enterprise Architecture
 
 * Delivered at [Prairie Dev Con 2024](https://www.prairiedevcon.com) (Winnipeg, Canada)
-* Download Link Coming Soon!
+* See [Release Page](https://github.com/davidwesst/talks/releases/tag/prdc2024-wpg)
