@@ -30,11 +30,13 @@ shortDescription: Discover how to modernize enterprise architecture with a strat
 # Integrations, Orchestrations, Automations: Paving the Path for AI in Enterprise Architecture
 
 ## David Wesst | [davidwesst.com](https://davidwesst.com)
+### University of Manitoba
 
 ---
 
 <!--
-    //class: hide
+_paginate: skil
+_footer: ""
 -->
 
 <style>
@@ -46,7 +48,7 @@ img[alt~="center"] {
 
 # Sponsor Image
 
-![blur center](https://placehold.co/854x480)
+![center w:854](./images/sponsors-prdc24wpg.png)
 
 ---
 
@@ -434,6 +436,8 @@ The Revolution (What did we do?)
 
 Defined (and Communicated) Standards
 
+![bg right](./images/ist-book-of-standards.png)
+
 <!--
   - Change in implementation
 
@@ -451,6 +455,8 @@ Defined (and Communicated) Standards
 
 Finding Pre-Existing Work
 
+![bg right:60% 110%](./images/integration-strategy.png)
+
 <!--
 - Change in Definition
 
@@ -461,6 +467,8 @@ Finding Pre-Existing Work
 ---
 
 Inventory of the Integrations
+
+![bg right](./images/integration-catalogue.png)
 
 <!--
 - Change in expectation and definition
@@ -473,16 +481,15 @@ Inventory of the Integrations
   - Calculate "Technical Debt" (Gartner)
   - Living Document
   - Find Data, Don't Make it
--->
----
-
-![bg center](./images/integration-catalogue.png)
-
-<!--
-Start with what you have
+  - Start with what you have
 -->
 
 ---
+
+<!-- 
+_paginate: false
+_footer: ""
+-->
 
 ![bg center](./images/powerbi-screen.png)
 
@@ -492,10 +499,10 @@ Start with what you have
 
 ---
 
-Result: Challenged Our Own Assumptions
+Challenging Our Assumptions
 
 <!--
-  - Challenged our own assumptions
+  - Challenged our own assumptions @ UM
     - Found many new integration, and many old ones that were retired
     - Integrations weren't integrations
     - Found that it was a tangled mess
@@ -551,7 +558,7 @@ ODS Retirement
 
 ---
 
-Streamlining Business Capbilities by Reclassifying "Integrations" as "Orchestrations"
+Streamlining Business Capbilities by Reclassifying "Integrations" (as orchestrations, automations, and reports)
 
 <!--
 Change in implementation
