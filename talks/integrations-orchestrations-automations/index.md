@@ -583,7 +583,7 @@ Change in implementation
 
 - David Wesst
 - Solution Architect, University of Manitoba
+- Full Stack Manitoba | https://fullstackmb.ca
+  - Next event TOMORROW (Sept 25) @ Launch Exchange [Grain Exchange Building]
 - david.wesst@umanitoba.ca / dw@davidwesst.com
 - https://davidwesst.com
-
----
